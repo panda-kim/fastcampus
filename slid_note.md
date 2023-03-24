@@ -11,6 +11,8 @@ Ch02. [판다스 라이브러리로 엑셀의 vlookup및 시트결합 해보기]
 
 Ch03. [프로 야구 데이터를 통해 데이터프레임 다루기](#ch03-프로-야구-데이터를-통해-데이터프레임-다루기)
 
+Ch04. [시험 성적 처리하기](#ch04-시험-성적-처리하기)
+
 
 ### Ch01. 데이터 분석 및 시각화 개요
 
@@ -55,5 +57,25 @@ Ch03. [프로 야구 데이터를 통해 데이터프레임 다루기](#ch03-프
 
 [3-7 요약강의](https://www.slid.cc/ko/share/docs/37-%EC%9A%94%EC%95%BD%EA%B0%95%EC%9D%98-1d0380961db448ee83f332b7bc646e97)
 
+
+### Ch04. 시험 성적 처리하기
+
+[4-1, 4-2 챕터 4의 메인 이론들](https://www.slid.cc/ko/share/docs/41-42-%EC%B1%95%ED%84%B0-4%EC%9D%98-%EB%A9%94%EC%9D%B8-%EC%9D%B4%EB%A1%A0%EB%93%A4-1969ef7d94b5485386eb63fdf321a984)
+
+[4-3 등수 매기기(rank)](https://www.slid.cc/ko/share/docs/43-%EB%93%B1%EC%88%98-%EB%A7%A4%EA%B8%B0%EA%B8%B0rank-64d8131cac3e4e7aae8f85d53c9b9b75)
+
+[4-4 자료형 바꾸기(astype)](https://www.slid.cc/ko/share/docs/44-%EC%9E%90%EB%A3%8C%ED%98%95-%EB%B0%94%EA%BE%B8%EA%B8%B0astype-a5667dc77fc94337b21f6e2512a37c67)
+
+[4-5 데이터프레임 필터링하기(불리언 인덱싱)](https://www.slid.cc/ko/share/docs/45-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0%EB%B6%88%EB%A6%AC%EC%96%B8-%EC%9D%B8%EB%8D%B1%EC%8B%B1-9b506776b4e844909f0e339e6a729567)
+
+[4-6 조건에 따라 값 부여하기(불리언 마스킹)](https://www.slid.cc/ko/share/docs/46-%EC%A1%B0%EA%B1%B4%EC%97%90-%EB%94%B0%EB%9D%BC-%EA%B0%92-%EB%B6%80%EC%97%AC%ED%95%98%EA%B8%B0%EB%B6%88%EB%A6%AC%EC%96%B8-%EB%A7%88%EC%8A%A4%ED%82%B9-051ad24c1d464a3f93c934461be89d7d)
+
+[4-7 범주화해서 학점 매기기(cut)](https://www.slid.cc/ko/share/docs/47-%EB%B2%94%EC%A3%BC%ED%99%94%ED%95%B4%EC%84%9C-%ED%95%99%EC%A0%90-%EB%A7%A4%EA%B8%B0%EA%B8%B0cut-6128a29725a14e5c8f836e44d856fe49)
+
+[4-8 category 자료형](https://www.slid.cc/ko/share/docs/48-category-%EC%9E%90%EB%A3%8C%ED%98%95-4da117dd6b8f42b0a82306d79a1f425a)
+
+[4-9 빈도수 파악하기(value_counts) 및 시각화](https://www.slid.cc/ko/share/docs/49-%EB%B9%88%EB%8F%84%EC%88%98-%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0valuecounts-%EB%B0%8F-%EC%8B%9C%EA%B0%81%ED%99%94-d91c97a4495c495d9583822ffacead0d)
+
+[4-10 요약강의](https://www.slid.cc/ko/share/docs/410-%EC%9A%94%EC%95%BD%EA%B0%95%EC%9D%98-c52d95c752d2460f94b4d26fb680878c)
 
 

@@ -88,3 +88,20 @@
 [4-10 요약강의](https://www.slid.cc/ko/share/docs/410-%EC%9A%94%EC%95%BD%EA%B0%95%EC%9D%98-c52d95c752d2460f94b4d26fb680878c)
 
 
+### Ch05. 기러기 스위스 같은 회문 체크하기
+
+[5-1 apply 함수를 이용하는 이유](https://www.slid.cc/ko/share/docs/51-apply-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-ff4eaa9f510749558789258b68301842)
+
+[5-2 시리즈에 apply로 함수 적용하기](https://www.slid.cc/ko/share/docs/52-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90-apply%EB%A1%9C-%ED%95%A8%EC%88%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-3fb7788b14e24c3da44ddd70eaf9abf8)
+
+[5-3 사용자 정의 함수를 apply로 적용하기(lambda 함수)](https://www.slid.cc/ko/share/docs/53-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%ED%95%A8%EC%88%98%EB%A5%BC-apply%EB%A1%9C-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0lambda-%ED%95%A8%EC%88%98-a0ba2bd0aafc4fdaa15f16adb9171ffc)
+
+[5-4 복수의 조건문으로 필터링하기(불리언 인덱싱)](https://www.slid.cc/ko/share/docs/54-%EB%B3%B5%EC%88%98%EC%9D%98-%EC%A1%B0%EA%B1%B4%EB%AC%B8%EC%9C%BC%EB%A1%9C-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0%EB%B6%88%EB%A6%AC%EC%96%B8-%EC%9D%B8%EB%8D%B1%EC%8B%B1-14e38e97076b4276a6c6a8e0210398b4)
+
+[5-5 프로젝트](https://www.slid.cc/ko/share/docs/55-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-44f80d05e15e4fdcb6666b7ee19739ab)
+
+[5-6 문자열 다루기](https://www.slid.cc/ko/share/docs/56-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8B%A4%EB%A3%A8%EA%B8%B0-b0e24679428c4cb3823515a95e3ffce3)
+
+[5-7 숫자 자료형으로 바꾸기(to_numeric)](https://www.slid.cc/ko/share/docs/57-%EC%88%AB%EC%9E%90-%EC%9E%90%EB%A3%8C%ED%98%95%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0tonumeric-5b50bc48811d4ffd89afe555da32fafc)
+
+[5-8 데이터 프레임에 apply로 함수 적용하기](https://www.slid.cc/ko/share/docs/58-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84%EC%97%90-apply%EB%A1%9C-%ED%95%A8%EC%88%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-4b872b7ace2745eb98b5132a9f427716)

@@ -105,3 +105,20 @@
 [5-7 숫자 자료형으로 바꾸기(to_numeric)](https://www.slid.cc/ko/share/docs/57-%EC%88%AB%EC%9E%90-%EC%9E%90%EB%A3%8C%ED%98%95%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0tonumeric-5b50bc48811d4ffd89afe555da32fafc)
 
 [5-8 데이터 프레임에 apply로 함수 적용하기](https://www.slid.cc/ko/share/docs/58-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84%EC%97%90-apply%EB%A1%9C-%ED%95%A8%EC%88%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-4b872b7ace2745eb98b5132a9f427716)
+
+
+### Ch06. 타이타닉 원시(raw)데이터 요약하기
+
+[6-1 피벗테이블을 만드는 이유](https://www.slid.cc/ko/share/docs/61-%ED%94%BC%EB%B2%97%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9D%B4%EC%9C%A0-c43e9ca19d624509b966088569f9757c)
+
+[6-2 피벗테이블 만들기(pivot_table)](https://www.slid.cc/ko/share/docs/62-%ED%94%BC%EB%B2%97%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%A7%8C%EB%93%A4%EA%B8%B0pivottable-a2aa40a4321e4afd8765a43097bedd16)
+
+[6-3 결측값 삭제하기(dropna)](https://www.slid.cc/ko/share/docs/63-%EA%B2%B0%EC%B8%A1%EA%B0%92-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0dropna-7451d9ca8c2a45dba007cac668bff4a1)
+
+[6-4 타이타닉 원시(raw) 데이터 요약하기](https://www.slid.cc/ko/share/docs/64-%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89-%EC%9B%90%EC%8B%9Craw-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9A%94%EC%95%BD%ED%95%98%EA%B8%B0-67593cebbb8542d3845da88aff60dab3)
+
+[6-5 seaborn으로 시각화하기](https://www.slid.cc/ko/share/docs/65-seaborn%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EA%B0%81%ED%99%94%ED%95%98%EA%B8%B0-c18ad9b8f2b944f5bce0d85369e5368e)
+
+[6-6 맞춤형 피벗테이블 만들기](https://www.slid.cc/ko/share/docs/66-%EB%A7%9E%EC%B6%A4%ED%98%95-%ED%94%BC%EB%B2%97%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%A7%8C%EB%93%A4%EA%B8%B0-f02a8481b4c34f68bde63c8a16f0dd25)
+
+[6-7 seaborn 및 피벗테이블에 lambda 함수 적용하기](https://www.slid.cc/ko/share/docs/67-seaborn-%EB%B0%8F-%ED%94%BC%EB%B2%97%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-lambda-%ED%95%A8%EC%88%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-121ca9e1b70841f9832acc9f08cc0a10)

@@ -107,6 +107,7 @@
 [5-8 데이터 프레임에 apply로 함수 적용하기](https://www.slid.cc/ko/share/docs/58-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84%EC%97%90-apply%EB%A1%9C-%ED%95%A8%EC%88%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-4b872b7ace2745eb98b5132a9f427716)
 
 
+
 ### Ch06. 타이타닉 원시(raw)데이터 요약하기
 
 [6-1 피벗테이블을 만드는 이유](https://www.slid.cc/ko/share/docs/61-%ED%94%BC%EB%B2%97%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9D%B4%EC%9C%A0-c43e9ca19d624509b966088569f9757c)

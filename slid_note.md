@@ -123,3 +123,19 @@
 [6-6 맞춤형 피벗테이블 만들기](https://www.slid.cc/ko/share/docs/66-%EB%A7%9E%EC%B6%A4%ED%98%95-%ED%94%BC%EB%B2%97%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%A7%8C%EB%93%A4%EA%B8%B0-f02a8481b4c34f68bde63c8a16f0dd25)
 
 [6-7 seaborn 및 피벗테이블에 lambda 함수 적용하기](https://www.slid.cc/ko/share/docs/67-seaborn-%EB%B0%8F-%ED%94%BC%EB%B2%97%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-lambda-%ED%95%A8%EC%88%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-121ca9e1b70841f9832acc9f08cc0a10)
+
+
+
+
+### Ch07. 마트 매출 데이터로 피벗된 데이터를 언피벗하기
+
+[7-1 인덱스를 다루는 다양한 함수들](https://www.slid.cc/ko/share/docs/71-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%8B%A4%EC%96%91%ED%95%9C-%ED%95%A8%EC%88%98%EB%93%A4-d7a76346475e46a3bc3ebca87c7e94b9)
+
+[7-2 언피벗(unpivot)을 하는 이유](https://www.slid.cc/ko/share/docs/72-%EC%96%B8%ED%94%BC%EB%B2%97unpivot%EC%9D%84-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-249de9aa7b174c73a695ba09bb2e9a34)
+
+[7-3 stack으로 언피벗하기](https://www.slid.cc/ko/share/docs/73-stack%EC%9C%BC%EB%A1%9C-%EC%96%B8%ED%94%BC%EB%B2%97%ED%95%98%EA%B8%B0-de63a27048f44ae5a66d6b700d8282f6)
+
+[7-4 melt로 언피벗하기](https://www.slid.cc/ko/share/docs/74-melt%EB%A1%9C-%EC%96%B8%ED%94%BC%EB%B2%97%ED%95%98%EA%B8%B0-ba39620c42644be49f773764855a1816)
+
+[7-5 마트 매출 데이터 언피벗해서 집계하기](https://www.slid.cc/ko/share/docs/75-%EB%A7%88%ED%8A%B8-%EB%A7%A4%EC%B6%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%96%B8%ED%94%BC%EB%B2%97%ED%95%B4%EC%84%9C-%EC%A7%91%EA%B3%84%ED%95%98%EA%B8%B0-88512c9e1d634cb7bfd6af90b209781d)
+

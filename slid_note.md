@@ -139,3 +139,14 @@
 
 [7-5 마트 매출 데이터 언피벗해서 집계하기](https://www.slid.cc/ko/share/docs/75-%EB%A7%88%ED%8A%B8-%EB%A7%A4%EC%B6%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%96%B8%ED%94%BC%EB%B2%97%ED%95%B4%EC%84%9C-%EC%A7%91%EA%B3%84%ED%95%98%EA%B8%B0-88512c9e1d634cb7bfd6af90b209781d)
 
+
+
+### Ch08. OECD 국가의 GDP데이터로 실무의 데이터 다루기
+
+[8-1 결측값 채우기(fillna)](https://www.slid.cc/ko/share/docs/81-%EA%B2%B0%EC%B8%A1%EA%B0%92-%EC%B1%84%EC%9A%B0%EA%B8%B0fillna-b74f9fce78c4460a819d8f762f27ff07)
+
+[8-2 열을 레이블로 필터링하기(filter)](https://www.slid.cc/ko/share/docs/82-%EC%97%B4%EC%9D%84-%EB%A0%88%EC%9D%B4%EB%B8%94%EB%A1%9C-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0filter-c065cf716b3d4b6db1db1f650425dd18)
+
+[8-3 실무데이터의 문제점](https://www.slid.cc/ko/share/docs/83-%EC%8B%A4%EB%AC%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90-4c865ba4a0104cd6b20c82f3e30c1802)
+
+[8-4 OECD 국가의 GDP데이터로 실무의 데이터 다루기](https://www.slid.cc/ko/share/docs/84-oecd-%EA%B5%AD%EA%B0%80%EC%9D%98-gdp%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8B%A4%EB%AC%B4%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0-f8e9d3c61426454982cb6fd78c0ce16d)

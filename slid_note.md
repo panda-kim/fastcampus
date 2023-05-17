@@ -150,3 +150,21 @@
 [8-3 실무데이터의 문제점](https://www.slid.cc/ko/share/docs/83-%EC%8B%A4%EB%AC%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90-4c865ba4a0104cd6b20c82f3e30c1802)
 
 [8-4 OECD 국가의 GDP데이터로 실무의 데이터 다루기](https://www.slid.cc/ko/share/docs/84-oecd-%EA%B5%AD%EA%B0%80%EC%9D%98-gdp%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8B%A4%EB%AC%B4%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0-f8e9d3c61426454982cb6fd78c0ce16d)
+
+
+
+### Ch09. 주식데이터를 통해 groupby 사용하기
+
+[9-1 데이터 이동하기(shift)](https://www.slid.cc/ko/share/docs/91-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0shift-b4793d4f286c4a1e948e673e200463fa)
+
+[9-2 groupby가 필요한 이유](https://www.slid.cc/ko/share/docs/92-groupby%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0-2a7aa09771334209bbdb96dde615f23a)
+
+[9-3 원시(raw) 데이터 그룹화해서 다루기 (groupby)](https://www.slid.cc/ko/share/docs/93-%EC%9B%90%EC%8B%9Craw-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B7%B8%EB%A6%85%ED%99%94%ED%95%B4%EC%84%9C-%EB%8B%A4%EB%A3%A8%EA%B8%B0-groupby-c19f8c6d8fba4b2095948a68212ccd11)
+
+[9-4 파이썬 라이브러리를 통해 주식데이터 가져오기 (Finance Data Reader)](https://www.slid.cc/ko/share/docs/94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%A3%BC%EC%8B%9D%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-finance-data-reader-283e8e4ccebb41ae9ed71364ec1dc20c)
+
+[9-5 2일 연속 급상승 주식 필터링하기](https://www.slid.cc/ko/share/docs/95-2%EC%9D%BC-%EC%97%B0%EC%86%8D-%EA%B8%89%EC%83%81%EC%8A%B9-%EC%A3%BC%EC%8B%9D-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0-a8d7504d3e93487186f3fcc07f3b24b1)
+
+[9-6 시리즈와 데이터프레임의 연산 (브로드 캐스팅)](https://www.slid.cc/ko/share/docs/96-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%EC%97%B0%EC%82%B0-%EB%B8%8C%EB%A1%9C%EB%93%9C-%EC%BA%90%EC%8A%A4%ED%8C%85-1da220a9a3494b309337491ce1181c68)
+
+[9-7 신규 상장 주식의 주가 변동 추이 알아보기](https://www.slid.cc/ko/share/docs/97-%EC%8B%A0%EA%B7%9C-%EC%83%81%EC%9E%A5-%EC%A3%BC%EC%8B%9D%EC%9D%98-%EC%A3%BC%EA%B0%80-%EB%B3%80%EB%8F%99-%EC%B6%94%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-9b479bef59f84b7683bda436340522b9)

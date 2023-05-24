@@ -168,3 +168,20 @@
 [9-6 시리즈와 데이터프레임의 연산 (브로드 캐스팅)](https://www.slid.cc/ko/share/docs/96-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%EC%97%B0%EC%82%B0-%EB%B8%8C%EB%A1%9C%EB%93%9C-%EC%BA%90%EC%8A%A4%ED%8C%85-1da220a9a3494b309337491ce1181c68)
 
 [9-7 신규 상장 주식의 주가 변동 추이 알아보기](https://www.slid.cc/ko/share/docs/97-%EC%8B%A0%EA%B7%9C-%EC%83%81%EC%9E%A5-%EC%A3%BC%EC%8B%9D%EC%9D%98-%EC%A3%BC%EA%B0%80-%EB%B3%80%EB%8F%99-%EC%B6%94%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-9b479bef59f84b7683bda436340522b9)
+
+
+
+### Ch10. 판다스 스킬업
+
+[10-1 groupby 스킬업](https://www.slid.cc/ko/share/docs/101-groupby-%EC%8A%A4%ED%82%AC%EC%97%85-f161595dc4c54fbcbe727c9ba6917537)
+
+
+[10-2 apply 스킬업](https://www.slid.cc/ko/share/docs/102-apply-%EC%8A%A4%ED%82%AC%EC%97%85-a37160ec3fba42f7b452af680de338f9)
+
+
+[10-3 데이터 구조바꾸기 스킬업](https://www.slid.cc/ko/share/docs/103-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EB%B0%94%EA%BE%B8%EA%B8%B0-%EC%8A%A4%ED%82%AC%EC%97%85-6ac021d733bf4b51af2b0907a5bab38c)
+
+
+[10-4 시각화 스킬업](https://www.slid.cc/ko/share/docs/104-%EC%8B%9C%EA%B0%81%ED%99%94-%EC%8A%A4%ED%82%AC%EC%97%85-f2a9dc69eaac46c39d9af05bb57bd9a4)
+
+

@@ -185,3 +185,15 @@
 [10-4 시각화 스킬업](https://www.slid.cc/ko/share/docs/104-%EC%8B%9C%EA%B0%81%ED%99%94-%EC%8A%A4%ED%82%AC%EC%97%85-f2a9dc69eaac46c39d9af05bb57bd9a4)
 
 
+
+### Ch11. 온라인 쇼핑몰 데이터 요약하기
+
+[11-1 시계열 데이터란?](https://www.slid.cc/ko/share/docs/111-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%9E%80-ea6d736525ba4b0d891f7a5dd5dff56a)
+
+[11-2 시계열 데이터로 변환하기(to_datetime)](https://www.slid.cc/ko/share/docs/112-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0todatetime-1c369d491dad49c889309c82a4f755c1)
+
+[11-3 시계열 데이터 생성(date_range)과 주기](https://www.slid.cc/ko/share/docs/113-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%83%9D%EC%84%B1daterange%EA%B3%BC-%EC%A3%BC%EA%B8%B0-9a375465bd604740a52c52c3b45f0f8a)
+
+[11-4 dt 접근자](https://www.slid.cc/ko/share/docs/114-dt-%EC%A0%91%EA%B7%BC%EC%9E%90-8c41fd0e3757419db7e04fe01fa9634d)
+
+[11-5 시계열 데이터의 그룹집계(resample)](https://www.slid.cc/ko/share/docs/115-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%EA%B7%B8%EB%A3%B9%EC%A7%91%EA%B3%84resample-392fb2465a23462187f318375dbca31f)

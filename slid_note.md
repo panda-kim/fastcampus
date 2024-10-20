@@ -23,6 +23,10 @@
 
 <img src=https://i.postimg.cc/JhpSW7pD/2.jpg>
 
+여러분의 판다스 공부를 도울 강사의 판다스 책이 출판되었습니다.
+
+[파이썬의 엑셀 판다스 라이브러리 책 소개](https://kimpanda.tistory.com/274)
+
 
 
 

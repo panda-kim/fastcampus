@@ -12,14 +12,17 @@
 ![](https://i.ibb.co/2Y9bn8G/02.jpg)
 
 
-영상 강의의 특성상 배운 내용을 다시 찾아보기 힘든 점이 있는데 그 점을 돕기 위해 **한 수강생의 정리 노트**를 공유하도록 권해서 배포하는 것이니 작성하는 수강생의 진도에 따라 다소 업로드에 시간이 걸릴 수 있습니다. 
+영상 강의의 특성상 배운 내용을 다시 찾아보기 힘든 점이 있는데 그 점을 돕기 위해 **한 수강생의 정리 노트**를 배포하는 것입니다.
 
-그런 부분에 대해서도 패스트 캠퍼스 측에 문의하기 보다는 앞서 말씀드렸듯 문의하실 부분이 생기시면 강사에게 연락주세요. (pandakimt@gmail.com)
-
-
+본 슬리드 노트는 11장 까지만 작성되었습니다.
 
 
-공부 중 함수에 대한 설명이 필요할 때는 [함수 설명 블로그 링크](https://kimpanda.tistory.com/category/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B4%80%EB%A0%A8%20%ED%8F%AC%EC%8A%A4%ED%8C%85/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%ED%95%A8%EC%88%98%20%EC%84%A4%EB%AA%85)를 활용하세요
+공부 중 함수에 대한 설명이 필요할 때는 [함수 설명 블로그 링크](https://kimpanda.tistory.com/category/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B4%80%EB%A0%A8%20%ED%8F%AC%EC%8A%A4%ED%8C%85/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%ED%95%A8%EC%88%98%20%EC%84%A4%EB%AA%85)를 활용하세요.
+
+강사의 유튜브 채널은 [https://www.youtube.com/@KimPandas](https://www.youtube.com/@KimPandas) 입니다
+
+<img src=https://i.postimg.cc/JhpSW7pD/2.jpg>
+
 
 
 
